@@ -1,0 +1,17 @@
+---
+enable: true
+title: "Frequently Asked Questions"
+faq:
+  - question: "Q. Who should I call when there is an emergency?"
+    answer: >
+            Always call 911. The department is quickly notified when there is and emergency and we will respond.  Please don't call friends on the department before calling 911.
+  - question: "Q. How are financial donations used?"
+    answer: >
+            Through the generosity of islanders and friends, we have purchased equipment critical to keeping our island safe.  Those purchase include ...
+  - question: "Q. Where are the AEDs (Automated External Defibrillator) located on the island?"
+    answer: >
+            There are AEDs located at the Town Hall, at East Point and at the State Park Marina.
+  - question: "Q. Can I join the Volunteer Fire Department?"
+    answer: >
+            Yes!  We're alwayys looking for individuals to join the department. If you're not a current/former firefighter, as a requirement, you'll need to pass a State certification.  Training is provided.  
+---

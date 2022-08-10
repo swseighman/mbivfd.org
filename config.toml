@@ -1,0 +1,77 @@
+baseURL = 'https://mbivfd.org/'
+languageCode = 'en-us'
+paginate = 6
+theme= "coHub"
+title = 'Middle Bass Island Volunteer Fire Department'
+ 
+[Menu]
+  # Main Menu
+  [[menu.Main]]
+  name = "About"
+  url= "/about/"
+  weight = 1
+  [[menu.Main]]
+  name = "News/Events"
+  url= "#blog"
+  weight = 2
+  [[menu.Main]]
+  name = "Our Training"
+  url= "#gallery"
+  weight = 3
+  [[menu.Main]]
+  name = "FAQ"
+  url= "#faq"
+  weight = 4
+  [[menu.Main]]
+  name = "Contact"
+  url= "/contact/"
+  weight = 5
+
+  # Sitemap Menu
+  [[menu.sitemap]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 1
+  [[menu.sitemap]]
+  name = "Terms"
+  url = "/terms/"
+  weight = 2
+
+[params]
+  aboutPageURL = "blog"
+  contactLink = "contact"
+  copyright = "© {year} Middle Bass Island Volunteer Fire Department"
+  formspreeURL = "https://formspree.io/f/xnqrqqkn"
+  # googleAnalytics = "G-JZ95FEWF9K"
+  logo = "images/logo-1.png"
+  footerlogo = "images/logo.png"
+  # footerDescription = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit quia ab, natus fugiat voluptas saepe ipsum animi officiis in molestiae?"
+
+  [params.address]
+  address = "Middle Bass Island Volunteer Fire Department <br>  455 Fox Road <br> Middle Bass, OH 43446"
+  email = "info@mbivfd.org"
+  openingDesc = "For emergencies, please dial 911."
+  # openingHours = "We are open from 7am — 7pm week days."
+  # phone = "+(448) 833 5272 332"
+
+  [params.map]
+  APIkey = "AIzaSyDGDSOlwphvS7ioVRgmaC4o6FRdk8iIam0"
+  latitude = "41.68950493443214"
+  longitude = "-82.80711184695052"
+  pinImage = "images/pin.png"
+
+  # Socail icons
+  [[params.social]]
+  icon = "ti-facebook"
+  url = "https://www.facebook.com/"
+  weight = 1
+  [[params.social]]
+  icon = "ti-twitter-alt"
+  url = "https://twitter.com/"
+  weight = 2
+  [[params.social]]
+  icon = "ti-instagram"
+  url = "https://www.instagram.com/"
+  weight = 4
+  
+  

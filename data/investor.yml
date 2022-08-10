@@ -1,0 +1,20 @@
+---
+enable: true
+title: "Meet Our Department"
+subtitle: >
+          The Middle Bass Island Volunteer Fire Department includes current/former 
+          Battalion Chiefs, current/retired firefighters, EMTs and certified volunteer firefighters.
+investor:
+  - name: "Alan Huber"
+    post: "Chief"
+    image: "images/team/Huber.jpg"
+  - name: "John Schneider"
+    post: "Chief"
+    image: "images/team/JSchneider.jpg"
+  - name: "Bob Schneider"
+    post: "Assistant Chief"
+    image: "images/team/BSchneider.jpg"
+  - name: "Alan Leonard"
+    post: "Fire Training Coordinator"
+    image: "images/team/Leonard.jpg"
+---
